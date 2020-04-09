@@ -1,0 +1,23 @@
+#Code formatting
+
+	#General
+		Brackets: new line
+		
+	#CPU
+		Math object creation: .get();
+		
+	#GPU
+		#Shader
+			#Names:
+				Vertex Shader: _VS
+				Tessellation Evaluation Shader: _TE
+				Tessellation Control Shader: _TC
+				Geometry Shader: _GS
+				Fragment Shader: _FS
+				Compute Shader: _CS
+				Instance shader: _i + shader suffix
+				Wireframe shader: _w + shader suffix
+				Instance wireframe shader: _iw + shader suffix
+				
+				
+		

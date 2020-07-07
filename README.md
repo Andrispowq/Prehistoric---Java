@@ -5,11 +5,9 @@ The engine has several features, including:
   
   -A working Entity-Component-System, with several components already implemented
   
-  -An under-development Rendering Engine which has lots of features, a PBR rendering pipeline, a terrain rendering pipeline (PBR is under development)
-      
-      a GUI rendering system which is not finished, an HDR enviromental map converter system, which creates irradiance and prefiltered maps
-      
-      for the PBR pipeline, a realistic atmosphere with light scatter simulations, and a ray tracing pipeline with compute shaders is to be added soon
+  -An under-development Rendering Engine which has lots of features, a PBR rendering pipeline, a terrain rendering pipeline (PBR is under development), a GUI rendering system which is not finished, an HDR enviromental map converter system, which creates irradiance and prefiltered maps, for the PBR pipeline
+  
+  -A realistic atmosphere with light scattering simulations, and a ray tracing pipeline with compute shaders is to be added soon
   
   -The basics of a Physics Engine is layed down, it will be implemented soon
   
